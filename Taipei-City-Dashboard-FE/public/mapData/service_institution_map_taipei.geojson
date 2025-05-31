@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "1",
+        "name": "臺北市私立自立社區學園",
+        "address": "臺北市士林區德行西路93巷7號地下一樓之1",
+        "city": "台北市",
+        "district": "市士林區",
+        "type": "日間服務機構",
+        "phone": "(02)2835-8805、(02)2837-5255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5182112,
+          25.1048184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "2",
+        "name": "臺北市大同發展中心(兼辦早療服務)",
+        "address": "臺北市大同區昌吉街52號六-七樓",
+        "city": "台北市",
+        "district": "市大同區",
+        "type": "日間服務機構",
+        "phone": "(02)2598-6886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5136784,
+          25.0656996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "3",
+        "name": "臺北市博愛發展中心（基河）",
+        "address": "臺北市中山區敬業三路160號",
+        "city": "台北市",
+        "district": "市中山區",
+        "type": "日間服務機構",
+        "phone": "(02)8509-6395"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5543258,
+          25.0795799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "4",
+        "name": "臺北市私立陽光重建中心",
+        "address": "臺北市中山區南京東路三段91號三樓",
+        "city": "台北市",
+        "district": "市中山區",
+        "type": "日間服務機構",
+        "phone": "(02)2507-8006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5364325,
+          25.0522678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "5",
+        "name": "臺北市私立心路兒童發展中心(兼辦早療服務)",
+        "address": "臺北市中山區復興北路232號",
+        "city": "台北市",
+        "district": "市中山區",
+        "type": "日間服務機構",
+        "phone": "(02)2508-0635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5412351,
+          25.0571129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "6",
+        "name": "臺北市城中發展中心(兼辦早療服務)",
+        "address": "臺北市中正區汀州路二段172號",
+        "city": "台北市",
+        "district": "市中正區",
+        "type": "日間服務機構",
+        "phone": "(02)2364-3036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5195086,
+          25.0236916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "7",
+        "name": "臺北市南海發展中心",
+        "address": "臺北市中正區延平南路207號1樓",
+        "city": "台北市",
+        "district": "市中正區",
+        "type": "日間服務機構",
+        "phone": "(02)2311-3946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5048758,
+          25.0327805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "8",
+        "name": "臺北市私立婦幼家園(兼辦早療服務)",
+        "address": "臺北市內湖區民權東路六段180巷42弄6號",
+        "city": "台北市",
+        "district": "市內湖區",
+        "type": "日間服務機構",
+        "phone": "(02)8792-5072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5897382,
+          25.0672721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "9",
+        "name": "臺北市萬芳啟能中心",
+        "address": "臺北市文山區萬美街一段51號一樓",
+        "city": "台北市",
+        "district": "市文山區",
+        "type": "日間服務機構",
+        "phone": "(02)2239-5646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5659297,
+          25.0022443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "10",
+        "name": "臺北市萬芳發展中心(兼辦早療服務)",
+        "address": "臺北市文山區萬美街一段55號二樓",
+        "city": "台北市",
+        "district": "市文山區",
+        "type": "日間服務機構",
+        "phone": "(02)2239-6169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5655538,
+          25.0021917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "11",
+        "name": "臺北市永明發展中心(兼辦早療服務)",
+        "address": "臺北市北投區石牌路二段115號四-六樓",
+        "city": "台北市",
+        "district": "市北投區",
+        "type": "日間服務機構",
+        "phone": "(02)2828-3051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5149174,
+          25.1183512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "12",
+        "name": "臺北市私立至德聽語中心(提供早療服務)",
+        "address": "臺北市北投區振興街45號三樓",
+        "city": "台北市",
+        "district": "市北投區",
+        "type": "日間服務機構",
+        "phone": "(02)2820-1825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5210895,
+          25.1161106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "13",
+        "name": "臺北市私立育成裕民發展中心",
+        "address": "臺北市北投區裕民一路41巷2弄18號",
+        "city": "台北市",
+        "district": "市北投區",
+        "type": "日間服務機構",
+        "phone": "(02)2821-8468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5158469,
+          25.1167307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "14",
+        "name": "臺北市慈祐發展中心",
+        "address": "臺北市松山區八德路四段688號三樓",
+        "city": "台北市",
+        "district": "市松山區",
+        "type": "日間服務機構",
+        "phone": "(02)2742-1213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5742749,
+          25.0498467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "15",
+        "name": "臺北市恆愛發展中心",
+        "address": "臺北市信義區松隆路36號六樓",
+        "city": "台北市",
+        "district": "市信義區",
+        "type": "日間服務機構",
+        "phone": "(02)2763-4210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5649536,
+          25.0433306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "16",
+        "name": "臺北市私立第一兒童發展中心(兼辦早療服務)",
+        "address": "臺北市信義區信義路五段150巷316號一樓",
+        "city": "台北市",
+        "district": "市信義區",
+        "type": "日間服務機構",
+        "phone": "(02)2729-4304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.567164,
+          25.0268346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "17",
+        "name": "臺北市私立育仁兒童發展中心(兼辦早療服務)",
+        "address": "臺北市萬華區萬大路387巷15號",
+        "city": "台北市",
+        "district": "市萬華區",
+        "type": "日間服務機構",
+        "phone": "(02)2307-8393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4971193,
+          25.0220733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "18",
+        "name": "臺北市私立育仁啟能中心",
+        "address": "臺北市萬華區柳州街41號四樓",
+        "city": "台北市",
+        "district": "市萬華區",
+        "type": "日間服務機構",
+        "phone": "(02)2382-1090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5028463,
+          25.0384564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "19",
+        "name": "臺北市私立活泉之家",
+        "address": "臺北市大安區萬美街一段55號三樓",
+        "city": "台北市",
+        "district": "市大安區",
+        "type": "福利服務中心",
+        "phone": "(02)2230-7715#240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4642215,
+          25.0384507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "20",
+        "name": "臺北市身心障礙者自立生活支持服務中心",
+        "address": "臺北市中山區南京西路6號8樓之2",
+        "city": "台北市",
+        "district": "市中山區",
+        "type": "福利服務中心",
+        "phone": "(02)2523-6661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5196456,
+          25.0525311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "index": "21",
+        "name": "臺北市私立八德服務中心",
+        "address": "臺北市松山區八德路三段155巷4弄35號",
+        "city": "台北市",
+        "district": "市松山區",
+        "type": "福利服務中心",
+        "phone": "(02)2570-2560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5531558,
+          25.0489529
+        ]
+      }
+    }
+  ]
+}
